@@ -6,7 +6,7 @@ Syriatel Telecommunications company is a telecommunications business based in Sy
 We will work with a customer churn dataset from the telecom industry sourced from Kaggle website.
 It contains 3,333 records and 21 columns(4 categorical, 17 numerical)
 
-
+https://github.com/MAchoki/phase-3-project.git
 
 14.5% of the company's user have left or churned from their services.
 

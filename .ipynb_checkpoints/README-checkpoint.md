@@ -1,12 +1,12 @@
 **BUSINESS PROBLEM**
 
-Syriatel Telecommunications company is a Syria Based tele-company that is facing a problem of losing customers, this action is known as churning.The company is conscerned by this and would like to know if the rate of churning would increase on the future.Not only does this project help them know that but also know how to better their relationship with their users to maintain a high rate of retention and even a high attraction of new clients.
+Syriatel Telecommunications company is a telecommunications business based in Syria that is experiencing an issue with client turnover.This worries the company, and they would like to know if there will be more turnover in the future.This project not only enables them to understand it, but it also teaches them how to improve their interaction with users in order to sustain a high rate of customer retention and even attract a large number of new ones.
 
 **DATA UNDERSTANDING**
 We will work with a customer churn dataset from the telecom industry sourced from Kaggle website.
 It contains 3,333 records and 21 columns(4 categorical, 17 numerical)
 
-
+https://github.com/MAchoki/phase-3-project.git
 
 14.5% of the company's user have left or churned from their services.
 
