@@ -8,6 +8,7 @@ It contains 3,333 records and 21 columns(4 categorical, 17 numerical)
 
 https://github.com/MAchoki/phase-3-project.git
 
+
 14.5% of the company's user have left or churned from their services.
 
 **OBJECTIVES**
@@ -38,3 +39,5 @@ A few ways into which SyriaTel can reduce Churning rate is by:
 - Encourage and act upon customer feedback. Use surveys, reviews, and feedback forms to understand customer satisfaction and areas for improvement.
 - Competitive Pricing on plans : Regularly review and adjust pricing strategies on different plans to remain competitive in the market. Consider offering flexible pricing plans that cater to different customer needs.
 
+**Project presentation**
+https://www.canva.com/design/DAGPU_gdCTI/VhaTr1X0Gi53ej1_INHKcA/view?utm_content=DAGPU_gdCTI&utm_campaign=designshare&utm_medium=link&utm_source=editor
